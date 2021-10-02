@@ -10,7 +10,7 @@ See <i>/help</i> for commands and more details.</b>
 
 
     HELP_MSG = """
-<i>Add me as admin in your group and start filtering :)</i>
+<i>you cant Add me as admin in your group :)</i>
 
 
 <b>Basic Commands;</b>
@@ -48,13 +48,13 @@ See <i>/help</i> for commands and more details.</b>
 <code>/info userid</code>  -  Shows User Information. Use <code>/info</code> as reply to some message for their details!
 
 
-<b>© @Mo_Tech_YT</b>
+<b>© @DL_black</b>
 """
 
 
     ABOUT_MSG = """⭕️<b>My Name : MT Unlimited Filter Bot</b>
 
-⭕️<b>Creater :</b> <b>@Mo_Tech_YT</b>    
+⭕️<b>Creater :</b> <b>@DL_black</b>    
 
 ⭕️<b>Language :</b> <code>Python3</code>
 
